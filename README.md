@@ -2,6 +2,10 @@
 
 FinTrack is a comprehensive accounting management app designed to simplify personal or small business finances by offering an intuitive interface and powerful analytical tools. Users can track income, expenses, and manage financial accounts efficiently, helping them make informed financial decisions.
 
+[LINK PRODUCT](https://fintech-saas.vercel.app/)
+
+![Demo](https://github.com/tuanna-kite/finance-saas/blob/main/demo/1.png?raw=true)
+
 ## Key Features
 
 - **User Registration and Authentication:** Secure sign-up, login, and Google authentication for quick and safe access.
